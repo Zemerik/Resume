@@ -1,0 +1,305 @@
+{
+  "basics": {
+    "name": "Hemang Yadav",
+    "label": "Passionate Developer",
+    "image": "/avatar.png",
+    "email": "ZemerikY@gmail.com",
+    "url": "https://zemerik.vercel.app",
+    "summary": "As a 15-year-old high school student, I am driven by an unwavering passion for pursuing a career as a front-end software developer. With a knack for transforming concepts into tangible realities, I possess a strong command of Frontend & Backend Development along with several API's, enabling me to bring ideas to life through coding expertise.",
+    "theme": "blue",
+    "location": {
+      "address": "",
+      "postalCode": "10001",
+      "city": "Melbourne",
+      "countryCode": "+61",
+      "region": "Australia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "zemerik",
+        "url": "https://linkedin.com/in/zemerik"
+      },
+      {
+        "network": "X",
+        "username": "Zemerik_X",
+        "url": "https://x.com/Zemerik_X"
+      },
+      {
+        "network": "GitHub",
+        "username": "Zemerik",
+        "url": "https://github.com/Zemerik"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "",
+      "position": "Frontend Web Developer",
+      "location_type": "Remote",
+      "location": "Melbourne, Victoria",
+      "url": "https://www.hillcrest.vic.edu.au/",
+      "startDate": "2023-01-01",
+      "endDate": null,
+      "summary": "Developing and Maintaining open-source Web Applications through Github",
+      "highlights": [
+        "Improved website performance by optimizing code"
+      ],
+      "responsibilities": [
+        "Collaborated with other Developers through Open Source Networking to design and implement web applications using modern JavaScript/Typescript frameworks.",
+        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
+        "Participated in code reviews and contributed to different Github Repositories."
+      ],
+      "achievements": [
+        "Mastered Frontend Development and several frameworks and languages including ReactJS, NodeJS, Astro and more."
+      ],
+      "skills": [
+        "React",
+        "Next",
+        "Node",
+        "Tailwind",
+        "Git",
+        "GitHub"
+      ]
+    },
+    {
+      "name": "",
+      "position": "Vex IQ Team Manager",
+      "location_type": "School",
+      "location": "Melbourne, Victoria",
+      "url": "https://www.hillcrest.vic.edu.au/",
+      "startDate": "2022-01-01",
+      "endDate": "2023",
+      "summary": "Managing a Vex IQ team to compete in the Vex Robotics Competitions and Championships",
+      "highlights": [
+        "Improved website performance by optimizing code"
+      ],
+      "responsibilities": [
+        "Collaborated with senior students to create a fully functioning game for Snapshot IQ Game of 2022.",
+        "Assisted in managing the vex labs and guiding juniors through the process of designing and assembling",
+        "Completed a Engineering Notebook containing information about different components of the Robot."
+      ],
+      "achievements": [
+        "Qualifed for 2022 National Vex Championships as a Reserve team"
+      ],
+      "skills": [
+        "C",
+        "C+",
+        "C++",
+        "Python"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Hillcrest Christian College",
+      "url": "https://www.hillcrest.vic.edu.au/",
+      "area": "Game Development (Python, C, C++)",
+      "studyType": "Digital Technologies",
+      "startDate": "2022",
+      "endDate": "2027",
+      "score": "93.3%"
+    },
+    {
+      "institution": "Hillcrest Christian College",
+      "url": "https://www.hillcrest.vic.edu.au/",
+      "area": "Web Development (HTML, CSS, JS, PHP)",
+      "studyType": "Digital Technologies",
+      "startDate": "2023",
+      "endDate": "2027",
+      "score": "96.7",
+      "courses": [  
+      ]
+    },
+    {
+      "institution": "Monash University",
+      "url": "https://citycollege.edu",
+      "area": "TAFE - Cybersecurity",
+      "studyType": "Associate Degree",
+      "startDate": "2024",
+      "endDate": "2025",
+      "score": "",
+      "courses": [
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Figma",
+      "level": "Expert",
+      "keywords": [
+        "Design",
+        "UI"
+      ]
+    },
+    {
+      "name": "Gitlab",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "HTML",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code",
+        "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": [
+        "AI",
+        "Blockchain"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Smith",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio",
+      "isActive": true,
+      "description": "My Personal Portfolio to showcase my skills and projects. ",
+      "highlights": [
+      ],
+      "url": "https://zemerik.vercel.app",
+      "github": "https://github.com/Zemerik/Portfolio-V2"
+    },
+    {
+      "name": "ZemPosts",
+      "isActive": true,
+      "description": "Post & Connect with Developers",
+      "highlights": [
+      ],
+      "url": "https://zemposts.vercel.app",
+      "github": "https://github.com/Zemerik/ZemPosts"
+    },
+    {
+      "name": "ZemShowcase",
+      "isActive": true,
+      "description": "Showcase & Connect with Developers",
+      "highlights": [
+      ],
+      "url": "https://zemshowcase.vercel.app",
+      "github": "https://github.com/Zemerik/ZemShowcase"
+    },
+    {
+      "name": "ZemProfiles",
+      "isActive": true,
+      "description": "Discover & Connect with Developers",
+      "highlights": [
+      ],
+      "url": "https://zemprofiles.vercel.app",
+      "github": "https://github.com/Zemerik/ZemProfiles"
+    }
+  ]
+}

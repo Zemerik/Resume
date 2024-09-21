@@ -1,0 +1,31 @@
+{
+  "name": "minimalist-portfolio-json",
+  "type": "module",
+  "version": "0.0.1",
+  "homepage": "https://zemerik.github.io",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "dependencies": {
+    "@astrojs/check": "0.4.1",
+    "@astrojs/tailwind": "^5.1.0",
+    "astro": "4.3.2",
+    "astro-font-picker": "^0.2.1",
+    "hotkeypad": "0.1.0",
+    "minimalist-portfolio-json": "file:",
+    "prettier-plugin-tailwindcss": "^0.6.5",
+    "tailwindcss": "^3.4.4",
+    "typescript": "5.3.3"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1",
+    "prettier": "^3.3.2",
+    "prettier-plugin-astro": "^0.14.0"
+  }
+}
