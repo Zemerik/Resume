@@ -28,7 +28,7 @@
 
 1. Fork a copy of this Repository on your Github account by clicking below,
 
-- [Fork](https://github.com/Zemerik/Terminal/fork)
+- [Fork](https://github.com/Zemerik/Resume/fork)
 
 2. Clone your Forked Repository by using the following `GIT` command:
 
