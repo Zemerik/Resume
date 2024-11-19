@@ -23,6 +23,8 @@
   <img src = "public/screenshot_laptop.png" alt = "Laptop Screenshot" />
 </p>
 
+![Wakatime Stats](https://wakatime.com/badge/user/9860690e-8928-4746-844c-c2924f121f2d/project/2d54e87c-6339-4edf-9d53-72866dbaaa03.svg)
+
 ## ❗About:
 
 
